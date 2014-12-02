@@ -1,0 +1,2 @@
+
+./cl.pl < const_definition.go | ./parser ProtoConst > protoconst.lua
